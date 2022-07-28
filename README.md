@@ -13,3 +13,5 @@ all running server on docker;
 docker ps;
 install windows install linux (wsl);
 https://docs.microsoft.com/en-us/windows/wsl/install-manual;
+you tube docker;
+https://www.youtube.com/watch?v=CsWoMpK3EtE;
